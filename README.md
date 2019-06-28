@@ -1,4 +1,4 @@
-# Sentiment flow track
+# EmotiCall - assessing sentiment and emotion in two-party collections calls
 
 A repo of the code for a consulting project in the Summer 2019 Insight Data Science Fellowship (Remote Session). This code has two main functions:
 
